@@ -1,0 +1,87 @@
+
+body {
+    background-color:  #c49e9e;
+}
+h1 {
+    padding: 20px;
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}
+
+header h1 span{
+    color:#c13333;
+  
+}
+
+.corpo  {
+    width: 960px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+
+.fotoperfil {
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0px auto;
+    border-radius: 50%;
+
+}
+
+.tabela {
+    width: 40%;
+    margin: auto;
+}
+
+.videoinsta {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+   
+}
+h2{
+    text-align: center;
+    background-color: #cc5959;
+    padding: 8px 16px;
+   
+}
+
+form label{
+    padding: 10px;
+}
+
+form input{
+    border-radius: 4px;
+}
+
+
+form button{
+    border-radius: 4px;
+    padding: 5px;
+    
+}
+
+.form-class{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex-container {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 0 auto;
+}
+
+#botao1{
+    width: 50px;
+    margin: 25px auto 0;
+   
+}
